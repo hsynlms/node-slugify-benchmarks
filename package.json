@@ -1,0 +1,31 @@
+{
+  "name": "url-record-benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "benchmark.js",
+  "scripts": {
+    "start": "node benchmark.js",
+    "lint": "npm run lint:standard",
+    "lint:standard": "standard --verbose | snazzy || exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsynlms/url-record-benchmarks"
+  },
+  "author": "Huseyin ELMAS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsynlms/url-record-benchmarks/issues"
+  },
+  "homepage": "https://github.com/hsynlms/url-record-benchmarks#readme",
+  "devDependencies": {
+    "@sindresorhus/slugify": "^1.1.0",
+    "chalk": "^4.1.0",
+    "slug": "^3.3.4",
+    "slugify": "^1.4.5",
+    "snazzy": "^8.0.0",
+    "standard": "^14.3.4",
+    "url-record": "^1.0.0",
+    "url-slug": "^2.3.2"
+  }
+}
