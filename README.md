@@ -2,7 +2,9 @@
 ## Machine specs
 
 **OS:** Windows 10 Pro
+
 **CPU:** Intel Core i7 6600U (Skylake)
+
 **RAM:** 16GB DDR3
 
 ## Benchmarks
